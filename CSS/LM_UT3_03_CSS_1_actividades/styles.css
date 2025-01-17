@@ -1,0 +1,26 @@
+/*Abel Hernández*/
+/* Fichero de estilos CSS */
+/* Selector Universal */
+p{
+color:blue;
+font-family: Book Antiqua; 
+font-size: xx-small;
+}
+
+h2{
+    color: darkviolet;
+    font-family: impact;
+    font-size: x-large;
+}
+
+h1{
+    color: indigo;
+    font-family: impact;
+    font-size: xx-large;
+}
+
+ul{
+    color: orange;
+    font-family: Verdana;
+
+}
